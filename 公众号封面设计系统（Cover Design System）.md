@@ -1,4 +1,4 @@
-# 考研小汤包公众号封面设计系统（Cover Design System）
+# 公众号封面设计系统（Cover Design System）
 
 **Version:** v1.0
 
